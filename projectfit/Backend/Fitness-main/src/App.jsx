@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import FitnessTracker from "./Fitness-Tracker";
-import Login from "./Login";
+import Login from "./login";
 import Signup from "./signup";
 
 function App() {
